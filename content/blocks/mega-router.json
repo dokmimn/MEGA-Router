@@ -1,0 +1,15 @@
+{
+  "type": "Router",
+  "name": "Router 3x3",
+  "description": "A massive 3x3 router. It features significantly more inputs and outputs for resource distribution.",
+  "size": 3,
+  "health": 280,
+  "category": "distribution",
+  "research": "distributor",
+  "buildTime": 72,
+  "requirements": [
+    { "item": "copper", "amount": 6 },
+    { "item": "lead", "amount": 6 }
+  ],
+  "spriteName": "mega-router"
+}
